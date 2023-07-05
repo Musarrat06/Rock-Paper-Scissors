@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors - Python_Project:
+# Rock-Paper-Scissors : Python_Project:
 
 Developed a Python program on Google Colab that allows users to play the classic game Rock-Paper-Scissors against the computer. The program provides a simple text-based interface for an enjoyable gaming experience.
 
